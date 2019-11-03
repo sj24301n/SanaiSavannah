@@ -1,7 +1,7 @@
-SquareFeet,Bedrooms,Color,Price
-1000,1,Blue,100000
-2500,3,White,450000
-3500,4,Grey,600000
+SquareFeet\\,Bedrooms\\,Color\\,Price
+1000,1,Blue\\,100000
+2500,3,White\\,450000
+3500,4,Grey\\,600000
 1900,2,Brown,230000
 900,0,White,75000
 1800,1,Yellow,140000
